@@ -1,0 +1,12 @@
+﻿  Building 'mhyprot2' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  comunication.cc
+  events.cc
+  main.cc
+  memorymng.cc
+  Создание кода...
+  mhyprot2.vcxproj -> C:\Users\Elone Mask\Downloads\mhyprot2-DriverReverse-main\Debug\mhyprot2.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\Elone Mask\Downloads\mhyprot2-DriverReverse-main\Debug\mhyprot2.sys
+  
+  Inf2Cat task was skipped as there were no inf files to process
+  
